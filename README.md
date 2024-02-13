@@ -13,23 +13,29 @@ Breaking Notes is a tool designed for dancers. It allows users to upload and sto
 
 ## Functionalities
 * **Login and Registration**
-  Create an account or login to access your videos.
   <img width="367" alt="register" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/1cd5c324-ba42-48b8-9654-5386d3735c04">
 
+    Create an account or login to access your videos.
+
 * **Video Upload**
-  Upload your video here.
   <img width="955" alt="video_upload" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/51029ed2-eb43-4fc7-8950-10f626b38a21">
+  
+  Upload your video here.
 
 * **Add Category**
   <img width="958" alt="add_category" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/0c94b31e-e106-4a77-9774-be605af08e78">
+  
   Create your new category.
 
 * **Video Manager**
-  Browse through your videos, select categories to display, or search videos by title.
   <img width="959" alt="videos" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/98120678-e5bb-4686-8b25-b413a7cc33c2">
+
+  Browse through your videos, select categories to display, or search videos by title.
+  
 * **Profile**
   <img width="960" alt="profil" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/7a1cab72-5b72-41bf-b35a-47e016a81a31">
   <img width="957" alt="Zrzut ekranu 2024-02-13 075119" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/44dc4c73-e0a5-43ba-b11b-757050bd8214">
+
   Edit your profile to customize your account.
 
 ## ERD Diagram
