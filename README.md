@@ -28,7 +28,7 @@ Here you can browse through your videos, select categories to display or search 
 <img width="957" alt="Zrzut ekranu 2024-02-13 075119" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/44dc4c73-e0a5-43ba-b11b-757050bd8214">
 Edit your profile to customize your account
 ##  ERD Diagram
-![DiagramBezWidoków](https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/248e07c5-bbc6-4634-b943-622651e2ac2a)
+<img width="959" alt="videos" src="https://github.com/Geruclkdz/ProjektWdpai/assets/97120136/98120678-e5bb-4686-8b25-b413a7cc33c2">
 ##  Technologies
 * HTML5
 * CSS3
